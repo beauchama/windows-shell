@@ -3,7 +3,7 @@
     "version": 2,
     "final_space": true,
     "palette": {
-      "background": "#1e1e1e",
+      "background": "transparent",
       "foreground": "#0ff",
       "dotnet": "#9d56f3",
       "no-change": "#81ff91",
@@ -76,7 +76,7 @@
         "newline": true,
         "segments": [
           {
-            "background": "transparent",
+            "background": "p:background",
             "foreground": "#81ff91",
             "foreground_templates": [
               "{{if gt .Code 0}}#ff3030{{end}}"
