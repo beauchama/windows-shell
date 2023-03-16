@@ -3,7 +3,7 @@
     "version": 2,
     "final_space": true,
     "palette": {
-      "background": "#000000",
+      "background": "#1e1e1e",
       "foreground": "#0ff",
       "dotnet": "#9d56f3",
       "no-change": "#81ff91",

@@ -47,6 +47,7 @@
                     "size": 14.0
                 },
                 "foreground": "#008080",
+                "background": "#1e1e1e",
                 "guid": "{61c54bbd-c2c6-5271-96e7-009a87ff44bf}",
                 "hidden": false,
                 "icon": "https://raw.githubusercontent.com/beauchama/windows-shell/main/assets/images/bash.png",
