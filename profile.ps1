@@ -43,3 +43,7 @@ Register-ArgumentCompleter -Native -CommandName winget -ScriptBlock {
             [System.Management.Automation.CompletionResult]::new($_, $_, 'ParameterValue', $_)
         }
 }
+
+# Generate completion for gh
+# https://cli.github.com/manual/gh_completion
+Invoke-Expression -Command $(gh completion -s powershell | Out-String)
