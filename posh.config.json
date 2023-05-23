@@ -27,7 +27,7 @@
             "foreground": "p:foreground",
             "properties": {
               "style": "full",
-              "folder_separator_icon": " \uf554 "
+              "folder_separator_icon": " \udb80\udc55 "
             }
           },
           {
